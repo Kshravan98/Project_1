@@ -3,3 +3,4 @@
 - pubg
 - coc
 - contra
+- mini militia
