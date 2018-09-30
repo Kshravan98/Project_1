@@ -4,3 +4,7 @@
 - coc
 - contra
 - mini militia
+
+# Sub
+- tencent
+- union
